@@ -1,6 +1,8 @@
 # Buy-It
 
 Project by Echo Team
+Deployment
+https://nau-crc.github.io/Buy-It/
 
 ## Team
 
